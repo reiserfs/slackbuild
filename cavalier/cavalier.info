@@ -1,0 +1,6 @@
+PRGNAM=cavalier
+VERSION=2023.9.0
+BUILD=${BUILD:-1}
+TAG=${TAG:-_SBo}
+DEPENDS="cava dotnet-runtime-7 dotnet-sdk-8 libadwaita blueprint-compiler"
+MAINTAINER="Thiago Melo <thiago@oxente.org>"
