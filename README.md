@@ -1,5 +1,5 @@
 # slackbuild
-# Thiago Melo
+
 # https://github.com/reiserfs/slackbuild
 
 Slackware build scripts
